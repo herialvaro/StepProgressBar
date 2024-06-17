@@ -1,0 +1,22 @@
+{
+  "name": "StepProgressBar",
+  "version": "0.1.0",
+  "summary": "A short description of StepProgressBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/herialvaro/StepProgressBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "herialvaro": "heriberto@mozper.com"
+  },
+  "source": {
+    "git": "https://github.com/herialvaro/StepProgressBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "StepProgressBar/Classes/**/*"
+}

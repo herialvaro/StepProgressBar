@@ -1,0 +1,16 @@
+PODS:
+  - StepProgressBar (0.1.0)
+
+DEPENDENCIES:
+  - StepProgressBar (from `../`)
+
+EXTERNAL SOURCES:
+  StepProgressBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StepProgressBar: 4134c701ae4a5f29167943b6c6ef201657e7468a
+
+PODFILE CHECKSUM: e5fbc5f15d478bedb2032eaff7853ff2b30b82e0
+
+COCOAPODS: 1.13.0
